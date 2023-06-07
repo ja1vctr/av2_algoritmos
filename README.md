@@ -1,2 +1,2 @@
 # av2_algoritmos
-Trabalho final da atéria de Algoritmos II
+Trabalho final da matéria de Algoritmos II
